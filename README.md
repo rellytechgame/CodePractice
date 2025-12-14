@@ -46,7 +46,7 @@ Para obtener una copia local y ponerla en marcha, sigue estos sencillos pasos.
 
 Asegúrate de tener instalado el siguiente software:
 
-*   [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+*   [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
 *   [Git](https://git-scm.com/downloads)
 
 ### ⚙️ Instalación
@@ -84,7 +84,7 @@ Distribuido bajo la Licencia MIT. Consulta `LICENSE.txt` para más información.
 
 [license-shield]: https://img.shields.io/github/license/tu_usuario/CodePractice?style=for-the-badge
 [license-url]: https://github.com/tu_usuario/CodePractice/blob/main/LICENSE.txt
-[dotnet-shield]: https://img.shields.io/badge/.NET-8.0-512BD4?style=for-the-badge&logo=dotnet
+[dotnet-shield]: https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet
 [dotnet-url]: https://dotnet.microsoft.com/
 [csharp-shield]: https://img.shields.io/badge/C%23-11.0-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 [csharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
